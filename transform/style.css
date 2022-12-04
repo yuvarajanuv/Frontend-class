@@ -1,0 +1,12 @@
+.heart{
+    width: 180px;
+    height: 180px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.heart{
+    width: 180px;
+    height: 180px;
+    animation-duration: 5s;
+}
